@@ -5,3 +5,8 @@ const nextConfig: NextConfig = {
 };
 
 export default nextConfig;
+const nextConfig = {
+  output: 'export',
+  // remaining config...
+};
+export default nextConfig;
